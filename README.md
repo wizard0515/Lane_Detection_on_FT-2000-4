@@ -80,4 +80,4 @@ The GUI is shown as follows:
 
 The demo is shown in the video:
 
-https://github.com/wizard0515/Human_pose_estimation_on_jetson_nano/issues/1#issue-2069124498
+https://github.com/wizard0515/Human_pose_estimation_on_jetson_nano/assets/85568550/8d43cee6-1b3b-4528-b461-b688d9138a25
