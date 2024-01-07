@@ -1,11 +1,11 @@
 ## Lane_Detection_on_KylinPhytium-2000/4
 
-This project is based on the KylinPhytium-2000/4 platform and used to detect lanes in videos or cameras. The project includes the following parts: 
-    --image preprocessing based on algorithm from [LIME: Low-Light Image Enhancement via Illumination Map Estimatio] (https://ieeexplore.ieee.org/document/7782813);
-    --lane detection based on network models UNet and Transformer;
-    --GUI developed with QT.
+This project is based on the KylinPhytium-2000/4 platform and used to detect lanes in videos or cameras. The project includes the following parts:   
+    --image preprocessing based on algorithm from [LIME: Low-Light Image Enhancement via Illumination Map Estimatio] (https://ieeexplore.ieee.org/document/7782813);  
+    --lane detection based on network models UNet and Transformer;  
+    --GUI developed with QT.  
 
-Several achievements we have made:
+Several achievements we have made:  
     --Reconstruct the LIME preprocessing algorithm with C++;  
     --Use NEON instructions and OpenMP API to speed up the LIME algorithm;  
     --Rewrite the Fouriour transform algorithm instead of cv::dft and cv::idft to improve the performance of the LIME algorithm;  
