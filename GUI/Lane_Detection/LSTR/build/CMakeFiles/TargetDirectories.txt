@@ -1,0 +1,3 @@
+/home/kylin/桌面/project_v1.0/LSTR/build/CMakeFiles/LSTR.dir
+/home/kylin/桌面/project_v1.0/LSTR/build/CMakeFiles/edit_cache.dir
+/home/kylin/桌面/project_v1.0/LSTR/build/CMakeFiles/rebuild_cache.dir
