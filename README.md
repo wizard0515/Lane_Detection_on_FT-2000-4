@@ -6,12 +6,12 @@ This project is based on the KylinPhytium-2000/4 platform and used to detect lan
     --GUI developed with QT.
 
 Several achievements we have made:
-    --Reconstruct the LIME preprocessing algorithm with C++;
-    --Use NEON instructions and OpenMP API to speed up the LIME algorithm;
-    --Rewrite the Fouriour transform algorithm instead of cv::dft and cv::idft to improve the performance of the LIME algorithm;
-    --Use Depthwise Separable Convolution and Quantization on UNet to reduce the model size and speed up the inference;
-    --Deploy UNet on the NCNN framework and transformer on the onnx framework to speed up the inference;
-    --Develop a realtime monitor module in GUI to display the hardware performance including CPU and memory usage.
+    --Reconstruct the LIME preprocessing algorithm with C++;  
+    --Use NEON instructions and OpenMP API to speed up the LIME algorithm;  
+    --Rewrite the Fouriour transform algorithm instead of cv::dft and cv::idft to improve the performance of the LIME algorithm;  
+    --Use Depthwise Separable Convolution and Quantization on UNet to reduce the model size and speed up the inference;  
+    --Deploy UNet on the NCNN framework and transformer on the onnx framework to speed up the inference;  
+    --Develop a realtime monitor module in GUI to display the hardware performance including CPU and memory usage.  
 ## Requirements
 
 * KylinPhytium-2000/4
